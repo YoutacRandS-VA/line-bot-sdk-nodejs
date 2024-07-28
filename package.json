@@ -59,6 +59,7 @@
     "sdk"
   ],
   "dependencies": {
+    "@line/bot-sdk": "^9.2.2",
     "@types/node": "^20.0.0"
   },
   "optionalDependencies": {
